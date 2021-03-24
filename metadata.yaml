@@ -1,0 +1,29 @@
+_repo: Idoj-de-Orfeo_64579
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bulthuis, H. J. (Hindrik Jan)
+    alias: Bulthuis, Hindrik Jan
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '25585'
+    url: http://www.gutenberg.org/2009/agents/25585
+    wikipedia:
+    - https://eo.wikipedia.org/wiki/Hendrik_Bulthuis
+    - https://nl.wikipedia.org/wiki/H.J._Bulthuis
+description: ''
+gutenberg_issued: '2021-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64579'
+  lccn: '38015825'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Esperanto fiction'
+- !lcc 'PM'
+- GITenberg
+title: Idoj de Orfeo
+url: http://www.gutenberg.org/ebooks/64579
