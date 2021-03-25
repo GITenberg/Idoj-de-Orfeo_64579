@@ -1,5 +1,8 @@
 _repo: Idoj-de-Orfeo_64579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64579-h/images/cover.jpg
 creator:
   author:
     agent_name: Bulthuis, H. J. (Hindrik Jan)
@@ -12,6 +15,8 @@ creator:
     - https://eo.wikipedia.org/wiki/Hendrik_Bulthuis
     - https://nl.wikipedia.org/wiki/H.J._Bulthuis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64579#Idoj-de-Orfeo
 gutenberg_issued: '2021-02-17'
 gutenberg_type: Text
 identifiers:
